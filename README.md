@@ -35,8 +35,7 @@ A clone of the Netflix landing page built using HTML, CSS, and JavaScript. This 
 
 
 
-
-<img width="1846" height="865" alt="Screenshot 2025-07-18 215416" src="https://github.com/user-attachments/assets/22b9bfeb-4614-49a0-b44b-4b3897f176f9" />
+<img width="1837" height="576" alt="Screenshot 2025-07-18 220135" src="https://github.com/user-attachments/assets/b3af1feb-4354-4318-a954-cb0ecd4f88b4" />
 
 
 
